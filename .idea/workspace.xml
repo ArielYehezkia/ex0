@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
@@ -8,8 +11,13 @@
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="42a4f325-96ee-46a4-9987-c7d2509271b9" name="Changes" comment="" />
+    <list default="true" id="42a4f325-96ee-46a4-9987-c7d2509271b9" name="Changes" comment="gtjnhjmmm   &#10;&#10;uhhhhnbnb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +41,10 @@
     "accountId": "4633396c-1c05-4fea-84c6-4b467af5783f"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/mally/CLionProjects/ex0/ex0.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/mally/CLionProjects/ex0/ex0.c" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -66,11 +78,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731780185327</updated>
-      <workItem from="1731780186368" duration="372000" />
+      <workItem from="1731780186368" duration="881000" />
     </task>
+    <task id="LOCAL-00001" summary="gtjnhjmmm   &#10;&#10;uhhhhnbnb">
+      <option name="closed" value="true" />
+      <created>1731780990042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731780990042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gtjnhjmmm   &#10;&#10;uhhhhnbnb" />
+    <option name="LAST_COMMIT_MESSAGE" value="gtjnhjmmm   &#10;&#10;uhhhhnbnb" />
   </component>
 </project>
